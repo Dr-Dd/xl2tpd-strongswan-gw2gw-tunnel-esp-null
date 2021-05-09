@@ -1,0 +1,6 @@
+noauth
+defaultroute
+debug
+ipcp-accept-local
+ipcp-accept-remote
+
